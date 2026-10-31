@@ -52,7 +52,7 @@ cryptography==47.0.0
     #   secretstorage
 distro==1.9.0
     # via google-genai
-dnspython==2.8.0
+dnspython==2.9.0
     # via
     #   cloud-sql-python-connector
     #   pymongo
@@ -313,7 +313,7 @@ packaging==26.2
     #   google-cloud-bigquery
 pg8000==1.31.5
     # via apache-beam
-pillow==12.3.0
+pillow==13.0.0
     # via apache-beam
 pluggy==1.6.0
     # via keyrings-google-artifactregistry-auth
@@ -370,7 +370,7 @@ pyarrow==23.0.1
     # via apache-beam
 pyarrow-hotfix==0.7
     # via apache-beam
-pyasn1==0.6.3
+pyasn1==0.6.5
     # via
     #   oauth2client
     #   pyasn1-modules
@@ -389,7 +389,7 @@ pydantic-core==2.46.4
     # via pydantic
 pyfiglet==1.0.4
     # via my_package (pyproject.toml)
-pymongo==4.17.0
+pymongo==4.18.3
     # via apache-beam
 pymysql==1.2.0
     # via apache-beam
