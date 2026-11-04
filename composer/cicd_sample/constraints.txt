@@ -29,7 +29,7 @@
 #
 # pip install "apache-airflow==X.Y.Z" "snowflake-connector-python[pandas]==2.9.0"
 #
-Authlib==1.2.1
+Authlib==1.9.1
 Babel==2.12.1
 ConfigUpdater==3.1.1
 Deprecated==1.2.14
@@ -494,7 +494,7 @@ py4j==0.10.9.7
 pyOpenSSL==23.2.0
 pyarrow==11.0.0
 pyasn1-modules==0.2.8
-pyasn1==0.4.8
+pyasn1==0.6.5
 pycountry==22.3.5
 pycparser==2.21
 pycryptodome==3.18.0
@@ -508,7 +508,7 @@ pyexasol==0.25.2
 pygraphviz==1.11
 pyhcl==0.4.4
 pykerberos==1.2.4
-pymongo==4.4.0
+pymongo==4.18.3
 pymssql==2.2.8
 pyodbc==4.0.39
 pyparsing==3.1.0
